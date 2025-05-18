@@ -1,4 +1,7 @@
 {
+  "alpaca_processed": {
+    "file_name": "alpaca_processed_dataset.json"
+  },
   "identity": {
     "file_name": "identity.json"
   },
